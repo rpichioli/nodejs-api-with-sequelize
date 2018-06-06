@@ -1,0 +1,24 @@
+{
+	"name": "nodejs-api-with-sequelize",
+	"version": "1.0.0",
+	"description": "NodeJS example project that build API in it's different methods using Express and persist data into relational database using Sequelize ORM",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "nodejs-api-with-sequelize"
+	},
+	"author": "Rodrigo Quiñones Pichioli (rpichioli)",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.16.3",
+		"mysql2": "^1.5.3",
+		"sequelize": "^4.37.10",
+		"sequelize-cli": "^4.0.0",
+		"validator": "^10.3.0"
+	}
+}
