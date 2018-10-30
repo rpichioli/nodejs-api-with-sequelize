@@ -1,5 +1,3 @@
-> **Status:** In development stage
-
 # nodejs-api-with-sequelize
 This repository shows **in a simple way** how to build API in it's different methods and manage/persist data into relational database using **Sequelize ORM** with **MySQL**.
 
