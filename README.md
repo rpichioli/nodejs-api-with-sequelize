@@ -1,5 +1,5 @@
 # nodejs-api-with-sequelize
-This repository shows **in a simple way** how to build API in it's different methods and manage/persist data into relational database using **Sequelize ORM** with **MySQL**.
+This repository shows **in a simple way** how to build REST API in it's different methods and manage/persist data into relational database using **Sequelize ORM** with **MySQL**.
 
 ### The repository idea ###
 This is a full basic CRUD (Create - Read - Update - Delete) .
