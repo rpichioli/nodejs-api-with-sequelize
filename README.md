@@ -1,8 +1,18 @@
 # nodejs-api-with-sequelize
-This repository shows **in a simple way** how to build REST API in it's different methods and manage/persist data into relational database using **Sequelize ORM** with **MySQL**.
+Welcome, this is a NodeJS + Express application basically. 
+
+We have here a complete CRUD API with GET, POST, PUT and DELETE methods that manage/persist data into **relational database using Sequelize ORM**. 
+
+I'm using **MySQL** but you can try to apply another database present in Sequelize official support.
 
 ### The repository idea ###
-This is a full basic CRUD (Create - Read - Update - Delete) .
+
+* NodeJS + Express server;
+* Model that represents the table from database mapping each field typing each one and more;
+* Specific module to focus the API and export an express.Route();
+* Registering specific route for the module within the server;
+* Specific responses (status and data) based in success or errors that we measure within each API;
+* Complete CRUD (Create - Read - Update - Delete).
 
 ### Understanding the project structure ###
 The NodeJS Express core file is located at the folder:
